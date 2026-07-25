@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "kachess_main": {
+      "type": "kachess-services",
+      "settings": {
+        "heading": "Master The Game",
+        "subheading": "Select your path to strategic excellence with KAchess"
+      }
+    }
+  },
+  "order": [
+    "kachess_main"
+  ]
+}
