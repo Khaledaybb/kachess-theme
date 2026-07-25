@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Theme information",
+    "settings": [
+      {
+        "type": "text",
+        "id": "theme_info",
+        "label": "KAchess Custom Theme"
+      }
+    ]
+  }
+]
